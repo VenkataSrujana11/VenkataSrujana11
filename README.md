@@ -1,113 +1,27 @@
-<h1 align="center">Hi 👋, I'm Boggarapu Venkata Srujana</h1>
-<h3 align="center">Aspiring Software Developer | Web & AI Enthusiast | Open Source Contributor</h3>
+# 💫 About Me:
+My name is Boggarapu Venkata Srujana, and I’m currently pursuing my B.Tech in Computer Science with a 9.8 CGPA at Mohan Babu University.<br><br>I have a strong interest in software development and financial-technology applications, which is why I’m excited about DTCC. During my internship with Infosys Springboard, I built a web-based personal finance tool that records expenses, analyzes spending, and generates automated financial reports, which strengthened my understanding of accuracy, data handling, and user-centric design.<br><br>I recently developed BudgetWise — an AI-based expense forecasting system using Python, Flask, and Machine Learning, where I focused on clean architecture, dashboards, and analytical visualization.<br><br>I have hands-on skills in Java, Python, SQL, JavaScript, HTML/CSS, React, Git, and ML libraries, and I enjoy working with structured data — something critical in financial systems.<br><br>I’ve also contributed to open-source programs like Social Summer of Code and GirlScript, which improved my collaboration, version control practices, and code review discipline.<br>Additionally, I had the opportunity to help organize a national-level hackathon, which helped me become comfortable working with diverse teams under deadlines.
 
-<p align="center">
-  <a href="mailto:bvsrujana99@gmail.com">📩 Email</a> •
-  <a href="https://www.linkedin.com/in/boggarapu-venkata-srujana-103806343">LinkedIn</a> •
-  <a href="https://github.com/VenkataSrujana11">GitHub</a> •
-  <a href="https://leetcode.com/u/VenkataSrujana/">LeetCode</a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srujana_bv11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boggarapu-venkata-srujana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bvsrujana99@gmail.com) 
 
-## 👩‍🎓 Education
-🎓 **B.Tech in Computer Science — Mohan Babu University (2023–2027)**  
-CGPA: **9.8**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VenkataSrujana11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VenkataSrujana11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSrujana11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🏅 **Intermediate — Narayana Junior College (2021–2023)**  
-Percentage: **97.4%**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VenkataSrujana11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🧑‍💻 About Me
-I’m a passionate **Computer Science student** focused on:
-
-- 💻 Web Development
-- 🤖 Machine Learning & AI
-- 📈 Data-driven projects
-- 🛠 Building full-stack applications
-- 🔥 Solving real-world problems through code
-
-I enjoy working on projects, contributing to open source, and experimenting with new technologies.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VenkataSrujana11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=VenkataSrujana11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Experience
-
-### 💼 **Project Intern — Infosys Springboard (Oct 2025 – Dec 2025)**
-- Built a **web-based personal finance tool**
-- Implemented **expense management & analytics**
-- Enabled users to **download PDF financial reports**
-
-### 🏆 **Organiser — Samartha 2025 National Hackathon**
-- Coordinated registrations & logistics
-- Helped create an engaging innovation environment
-
-### 🧠 **AI/ML Intern — AICTE–Shell India–Edunet Foundation**
-- Built Fire-Type Classification ML Model (MODIS Satellite Data)
-- Hands-on with **Pandas, NumPy, Scikit-learn, Visualization**
-
-### 🌍 **Open Source Contributor — SSOC & GSSoC (2025)**
-- Fixed bugs, added features, improved documentation
-- Multiple PRs successfully merged
-- Worked on scalable, real-world codebases
-
----
-
-## 🛠 Projects
-
-### 💸 **BudgetWise – AI Expense Forecasting**
-**HTML, CSS, JS, Flask, Python, ML**
-- Full expense tracking & visualization
-- Add, edit, delete daily spending
-- Forecasting dashboard using ML
-
-### 🧭 **WorkSky – Career Job Portal**
-**HTML, CSS, JS, Next.js, Supabase, AI**
-- AI-powered job matching
-- Real-time job updates & recommendations
-- Job application tracking
-
-### 🌳 **Deforestation Detection (ML Project)**
-**Python, Pandas, NumPy, Scikit-learn, Matplotlib**
-- Classified fire types: vegetation, volcanic, static land, offshore
-- Trained ML classifiers & visualized outputs
-
----
-
-## 🧩 Technical Skills
-
-### 💡 Languages
-Java • Python • C • SQL • JavaScript • HTML/CSS
-
-### ⚛ Frameworks
-React.js
-
-### 🧰 Developer Tools
-Git • VS Code • IntelliJ • Google Cloud • Netlify • Vercel
-
-### 📊 Libraries
-Pandas • NumPy • Matplotlib • Scikit-learn
-
----
-
-## 📈 Competitive Programming
-- 👩‍💻 Active on **LeetCode**
-- Sharpening Algorithms, Problem Solving & DSA
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VenkataSrujana11&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VenkataSrujana11&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🤝 Connect with Me!
-📩 **Email:** bvsrujana99@gmail.com  
-🔗 **GitHub:** VenkataSrujana11  
-💼 **LinkedIn:** boggarapu-venkata-srujana-103806343  
-
-✨ *Let's collaborate, build, and innovate together!* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
